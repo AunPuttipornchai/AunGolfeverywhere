@@ -8,3 +8,7 @@
 ![1](https://user-images.githubusercontent.com/48234063/68531850-68903a80-0349-11ea-8b07-c5be72168ce3.PNG)
 
 การเพิ่มเมนู และ รวมราคา
+
+![Capture3](https://user-images.githubusercontent.com/48234063/68531942-87db9780-034a-11ea-96c4-938f08f3899a.PNG)
+
+การลบเมนู และ รวมราคา
