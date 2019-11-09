@@ -12,3 +12,7 @@
 ![Capture3](https://user-images.githubusercontent.com/48234063/68531942-87db9780-034a-11ea-96c4-938f08f3899a.PNG)
 
 การลบเมนู และ รวมราคา
+
+![Capture4](https://user-images.githubusercontent.com/48234063/68531955-a3df3900-034a-11ea-9722-3cb6ed2e1d21.PNG)
+
+เมื่อกด เสร็จสิ้น ระบบจะทำการขอบคุณ
